@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import html
 import re
 
-TOKEN = 'NTkxMjQxODU3ODUwNDA4OTYw.G9FU7e.uvbHgZB0A2rAxMqqEokjLJoR327ufZXmV-30zU'
+TOKEN = ''
 
 load_dotenv()
 
